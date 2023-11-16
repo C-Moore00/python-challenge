@@ -12,5 +12,3 @@ There is one thing of note with the results:
 
 I have a floating point error on the PyPoll data, with Raymon Antthony Doane not possessing 3.139% of the vote but 3.1390000000000002%. I have not figured a way around this issue.
 
-UPDATE, NOV 2023:
-We came back through here since I didn't output to console last time. Oops.
